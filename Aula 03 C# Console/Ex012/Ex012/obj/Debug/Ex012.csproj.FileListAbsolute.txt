@@ -1,0 +1,14 @@
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios\Ex012\Ex012\obj\Debug\Ex012.csprojAssemblyReference.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios\Ex012\Ex012\obj\Debug\Ex012.csproj.CoreCompileInputs.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios\Ex012\Ex012\bin\Debug\Ex012.exe.config
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios\Ex012\Ex012\bin\Debug\Ex012.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios\Ex012\Ex012\bin\Debug\Ex012.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios\Ex012\Ex012\obj\Debug\Ex012.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios\Ex012\Ex012\obj\Debug\Ex012.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 4\Ex012\Ex012\bin\Debug\Ex012.exe.config
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 4\Ex012\Ex012\bin\Debug\Ex012.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 4\Ex012\Ex012\bin\Debug\Ex012.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 4\Ex012\Ex012\obj\Debug\Ex012.csprojAssemblyReference.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 4\Ex012\Ex012\obj\Debug\Ex012.csproj.CoreCompileInputs.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 4\Ex012\Ex012\obj\Debug\Ex012.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 4\Ex012\Ex012\obj\Debug\Ex012.pdb
